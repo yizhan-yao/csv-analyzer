@@ -1,0 +1,15 @@
+# 虚拟环境
+venv/
+
+# Python 编译文件
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
+
+# 测试用临时文件
+test_files/
+
+# 覆盖率报告
+.coverage
